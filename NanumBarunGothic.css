@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/NanumBarunGothic.eot');
+    src: url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/NanumBarunGothic.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/NanumBarunGothic.woff') format('woff'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/NanumBarunGothic.svg#NanumBarunGothic') format('svg'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/NanumBarunGothic.ttf') format('truetype');
+}
