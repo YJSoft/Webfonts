@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'BM JUA';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/BM-JUA.eot');
+    src: url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/BM-JUA.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/BM-JUA.woff') format('woff'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/BM-JUA.svg#BM-JUA') format('svg'),
+         url('https://cdn.rawgit.com/YJSoft/Webfonts/0.1/BM-JUA.ttf') format('truetype');
+}
