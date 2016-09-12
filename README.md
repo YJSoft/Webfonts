@@ -86,12 +86,6 @@ CSS파일 및 ``<head>``안의 스타일 시트에 아래 코드를 넣으면 �
 <span class="jua">주아체</span>
 ```
 
-##적용하기
-폰트를 적용하려면 폰트 이름을 적용하길 원하는 CSS에 다음과 같이 추가하면 됩니다.
-```
-font-family: 'NanumBarunGothic', '나눔바른고딕', sans-serif;
-```
-
 [nanum]: http://fonts.googleapis.com/earlyaccess/nanumgothic.css
 [nanum story]: http://static.campaign.naver.com/0/hangeul/2014/doc/nanum_story.pdf
 [license1]: http://www.woowahan.com/license.html?keepThis=true&TB_iframe=true&height=620&width=659&modal=true
